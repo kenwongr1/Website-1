@@ -1,0 +1,156 @@
+{
+  "version": "0.4",
+  "title": "Partners — Amerigroup International",
+  "type": "page",
+  "content": [
+    {
+      "id": "1ca20e4",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "73880eb",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "db3cf4a",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<nav style=\"position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;justify-content:space-between;padding:0 5%;height:70px;background:rgba(10,22,40,0.95);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,0.07)\">\n  <a href=\"/\" style=\"display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff\">\n    <svg viewBox=\"0 0 36 36\" width=\"36\" height=\"36\" fill=\"none\"><circle cx=\"18\" cy=\"18\" r=\"17\" stroke=\"#0ccfb0\" stroke-width=\"2\"/><path d=\"M9 22 L18 10 L27 22\" stroke=\"#0ccfb0\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"9\" y1=\"27\" x2=\"27\" y2=\"27\" stroke=\"#0ccfb0\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    <div><span style=\"font-size:1.1rem;font-weight:700\">Amerigroup <b style=\"color:#0ccfb0\">Int'l</b></span><small style=\"display:block;font-size:0.6rem;color:#0ccfb0;letter-spacing:0.12em;text-transform:uppercase\">Clean Energy Solutions</small></div>\n  </a>\n  <ul style=\"display:flex;gap:28px;list-style:none;margin:0;padding:0\">\n    <li><a href=\"/\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Home</a></li>\n    <li><a href=\"/about\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">About Us</a></li>\n    <li><a href=\"/technology\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Technology</a></li>\n    <li><a href=\"/projects\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Projects</a></li>\n    <li><a href=\"/team\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Our Team</a></li>\n    <li><a href=\"/partners\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Partners</a></li>\n    <li><a href=\"/#contact\" style=\"background:#0ccfb0;color:#0a1628;padding:8px 20px;border-radius:6px;font-weight:700;text-decoration:none;font-size:0.875rem\">Contact</a></li>\n  </ul>\n</nav>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "08d9223",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "bb5ed06",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "bf3e523",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<header style=\"padding:160px 5% 100px;background:linear-gradient(135deg,rgba(10,22,40,0.92) 0%,rgba(15,52,96,0.85) 60%,rgba(12,207,176,0.12) 100%),url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1800&auto=format&fit=crop&q=80') center/cover no-repeat;color:#fff\">\n  <div style=\"font-size:0.8rem;color:#0ccfb0;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px\">Home → Our Partners</div>\n  <h1 style=\"font-size:clamp(2rem,4.5vw,3.4rem);font-weight:800;line-height:1.15;letter-spacing:-0.02em;max-width:900px;margin-bottom:20px\">Our <span style='color:#0ccfb0'>Collaboration</span> Network</h1>\n  <p style=\"font-size:1.1rem;color:rgba(255,255,255,0.72);line-height:1.7;max-width:640px\">Our team proudly reflects on its rich history of professional experience. The logos below represent the respected organizations where our team members have contributed expertise.</p>\n</header>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "06b08b6",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b7587cc",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "121290a",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "<section style=\"padding:100px 5%;background:#fff\"><div style=\"text-align:center;margin-bottom:48px\"><span style=\"color:#09a38c;font-size:0.78rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase\">Professional History</span><h2 style=\"font-size:clamp(1.7rem,3vw,2.6rem);font-weight:800;color:#0a1628;margin:14px 0\">Trusted Relationships Across Industries</h2><p style=\"color:#64748b;max-width:640px;margin:0 auto;font-size:1.05rem\">These logos are the registered trademarks of their respective companies and are displayed solely to showcase our team's collective background.</p></div><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:18px\"><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">CFE</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Bayotech</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Mainspring</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Power China</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">CPECC</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Hybot</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Hypower</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">HBA</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Amerigas</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Nikola</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Pan America</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Sauber Water</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">CEEC GEDI</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Tian Tang</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">AG Intal</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Conacen</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">H2B2</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Technical America</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">CSCEC</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Vastgold</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Sangfor</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">GRB</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">A-SSA</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Mexmot</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Evenflo</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Cryotainer</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Big River Energy</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">SUMEC</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">SUMEC International Tech</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">Jishang Fortune</div><div style=\"aspect-ratio:3/2;background:#fff;border:1px solid #dce4ef;border-radius:12px;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;font-weight:700;color:#0f3460;font-size:1rem\">AY-C</div></div></section>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "b553c73",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "de07136",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "3b3ade0",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<footer style=\"background:#0a1628;border-top:1px solid rgba(255,255,255,0.07);padding:60px 5% 30px;color:rgba(255,255,255,0.5)\">\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:48px;margin-bottom:40px\">\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Amerigroup International</h5><p style=\"font-size:0.85rem;line-height:1.7;max-width:320px\">Leading provider of zero-emission energy solutions — pioneering the transition to sustainable energy integration and advanced clean technology worldwide.</p></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Company</h5><a href=\"/about\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">About Us</a><a href=\"/team\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Our Team</a><a href=\"/partners\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Partners</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Solutions</h5><a href=\"/technology\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Technology</a><a href=\"/projects\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Projects</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Offices</h5><p style=\"font-size:0.85rem;line-height:1.7\">Hong Kong (SAR)<br>Beijing, China<br>Vancouver, Canada</p></div>\n  </div>\n  <div style=\"display:flex;justify-content:space-between;padding-top:30px;border-top:1px solid rgba(255,255,255,0.07);flex-wrap:wrap;gap:16px\">\n    <div style=\"font-size:0.8rem;color:rgba(255,255,255,0.35)\">© 2024 Amerigroup International. All rights reserved.</div>\n    <div style=\"font-size:0.82rem;color:rgba(255,255,255,0.5)\">Leading provider of zero-emission energy solutions.</div>\n  </div>\n</footer>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

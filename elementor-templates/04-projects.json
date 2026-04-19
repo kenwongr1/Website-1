@@ -1,0 +1,156 @@
+{
+  "version": "0.4",
+  "title": "Projects — Amerigroup International",
+  "type": "page",
+  "content": [
+    {
+      "id": "ca223a5",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b0b8b0b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "eebe7ca",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<nav style=\"position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;justify-content:space-between;padding:0 5%;height:70px;background:rgba(10,22,40,0.95);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,0.07)\">\n  <a href=\"/\" style=\"display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff\">\n    <svg viewBox=\"0 0 36 36\" width=\"36\" height=\"36\" fill=\"none\"><circle cx=\"18\" cy=\"18\" r=\"17\" stroke=\"#0ccfb0\" stroke-width=\"2\"/><path d=\"M9 22 L18 10 L27 22\" stroke=\"#0ccfb0\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"9\" y1=\"27\" x2=\"27\" y2=\"27\" stroke=\"#0ccfb0\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    <div><span style=\"font-size:1.1rem;font-weight:700\">Amerigroup <b style=\"color:#0ccfb0\">Int'l</b></span><small style=\"display:block;font-size:0.6rem;color:#0ccfb0;letter-spacing:0.12em;text-transform:uppercase\">Clean Energy Solutions</small></div>\n  </a>\n  <ul style=\"display:flex;gap:28px;list-style:none;margin:0;padding:0\">\n    <li><a href=\"/\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Home</a></li>\n    <li><a href=\"/about\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">About Us</a></li>\n    <li><a href=\"/technology\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Technology</a></li>\n    <li><a href=\"/projects\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Projects</a></li>\n    <li><a href=\"/team\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Our Team</a></li>\n    <li><a href=\"/partners\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Partners</a></li>\n    <li><a href=\"/#contact\" style=\"background:#0ccfb0;color:#0a1628;padding:8px 20px;border-radius:6px;font-weight:700;text-decoration:none;font-size:0.875rem\">Contact</a></li>\n  </ul>\n</nav>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "3ac3300",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "9f132ce",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "9813a5e",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<header style=\"padding:160px 5% 100px;background:linear-gradient(135deg,rgba(10,22,40,0.92) 0%,rgba(15,52,96,0.85) 60%,rgba(12,207,176,0.12) 100%),url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1800&auto=format&fit=crop&q=80') center/cover no-repeat;color:#fff\">\n  <div style=\"font-size:0.8rem;color:#0ccfb0;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px\">Home → Projects</div>\n  <h1 style=\"font-size:clamp(2rem,4.5vw,3.4rem);font-weight:800;line-height:1.15;letter-spacing:-0.02em;max-width:900px;margin-bottom:20px\">Sustainability Projects <span style='color:#0ccfb0'>Delivered Worldwide</span></h1>\n  <p style=\"font-size:1.1rem;color:rgba(255,255,255,0.72);line-height:1.7;max-width:640px\">Innovative solutions for zero-emission energy, efficient infrastructure, advanced water treatment, hydrogen and ammonia production, and power grid enhancements for environmental protection.</p>\n</header>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "454d279",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "755c635",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "5583f89",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "<section style=\"padding:100px 5%;background:#fff\"><div style=\"text-align:center;margin-bottom:48px\"><span style=\"color:#09a38c;font-size:0.78rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase\">Portfolio</span><h2 style=\"font-size:clamp(1.7rem,3vw,2.6rem);font-weight:800;color:#0a1628;margin:14px 0\">Featured Projects</h2></div><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:28px\"><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1509391366360-2e959784a276?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">Solar</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">Sonora, Mexico</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">Utility-Scale Solar Power Plant</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">Developing and managing large-scale solar facilities that convert sunlight into electricity, delivering clean power to Mexico's national grid.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Capacity: 250 MW</span><span>Status: Operational</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">Wind</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">Oaxaca, Mexico</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">Onshore Wind Farm Development</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">Establishing and operating wind farms that capture wind energy and convert it into electrical power for regional industrial users.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Capacity: 180 MW</span><span>Status: Commissioning</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1581092918484-8313ec0d4d0f?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">Hydrogen</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">Daxing, Beijing</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">Hydrogen Electrolysis &amp; Production Hub</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">Leading in zero-emission hydrogen generation using renewable electricity to split water into hydrogen and oxygen.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Output: 10,000 kg/day</span><span>Status: Operational</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">Ammonia</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">Vancouver, Canada</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">Green Ammonia Production Facility</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">Utilizing hydrogen produced from renewable sources to create ammonia — a key component for energy storage and agricultural applications.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Output: 50,000 tpa</span><span>Status: In Development</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">Grid</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">Nationwide, Mexico</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">CFE Power Grid Modernization</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">Enhancing Mexico's national power grid with innovative engineering — integrating fuel cells, renewables, and energy storage.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Client: CFE</span><span>Status: Multi-Phase</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">EV</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">North America</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">Class 5 &amp; 8 Diesel-to-Electric Truck Conversion</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">Converting commercial diesel trucks to fully electric with travel range up to 1,300 miles. Serving premier logistics and retail fleets.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Clients: Staples, UPS, FedEx, Kenworth</span><span>Range: Up to 1,300 mi</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1605281317010-fe5ffe798166?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">LNG Export</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">United States</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">AmerigroupLNG — US Export Authorization</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">DOE-approved license for AmerigroupLNG to export approximately 4.6 billion cubic feet (Bcf) of liquefied natural gas from the United States.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Volume: 4.6 Bcf</span><span>Authority: US DOE</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1542331608-b7ff9666c40f?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">FSRU</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">Pacific Coast, Mexico</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">Offshore FSRU Deployment</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">Offshore Floating Storage and Regasification Unit providing rapid LNG import capacity with minimal environmental footprint.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Capacity: 170,000 m³</span><span>Status: Operational</span></div></div></article><article style=\"border-radius:18px;overflow:hidden;background:#fff;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:16/10;overflow:hidden;position:relative\"><img src=\"https://images.unsplash.com/photo-1494412651409-8963ce7935a7?w=900&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/><div style=\"position:absolute;top:16px;left:16px;background:#0ccfb0;color:#0a1628;padding:6px 14px;border-radius:100px;font-size:0.72rem;font-weight:700;letter-spacing:0.05em;text-transform:uppercase\">Logistics</div></div>\n<div style=\"padding:28px\"><div style=\"font-size:0.78rem;font-weight:600;color:#09a38c;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px\">Trans-Pacific</div><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:12px;line-height:1.35\">Overseas LNG Supply Chain &amp; Bunkering</div><div style=\"font-size:0.88rem;color:#64748b;line-height:1.65;margin-bottom:18px\">End-to-end LNG sourcing and logistics — transportation, onshore regasification, FSRU operations, marine bunkering, and small-scale distribution.</div><div style=\"display:flex;gap:20px;padding-top:18px;border-top:1px solid #dce4ef;font-size:0.78rem;color:#64748b\"><span>Scope: Global</span><span>Status: Ongoing</span></div></div></article></div></section>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "15c6a7c",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "eb65ce1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "ab39986",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<footer style=\"background:#0a1628;border-top:1px solid rgba(255,255,255,0.07);padding:60px 5% 30px;color:rgba(255,255,255,0.5)\">\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:48px;margin-bottom:40px\">\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Amerigroup International</h5><p style=\"font-size:0.85rem;line-height:1.7;max-width:320px\">Leading provider of zero-emission energy solutions — pioneering the transition to sustainable energy integration and advanced clean technology worldwide.</p></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Company</h5><a href=\"/about\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">About Us</a><a href=\"/team\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Our Team</a><a href=\"/partners\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Partners</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Solutions</h5><a href=\"/technology\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Technology</a><a href=\"/projects\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Projects</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Offices</h5><p style=\"font-size:0.85rem;line-height:1.7\">Hong Kong (SAR)<br>Beijing, China<br>Vancouver, Canada</p></div>\n  </div>\n  <div style=\"display:flex;justify-content:space-between;padding-top:30px;border-top:1px solid rgba(255,255,255,0.07);flex-wrap:wrap;gap:16px\">\n    <div style=\"font-size:0.8rem;color:rgba(255,255,255,0.35)\">© 2024 Amerigroup International. All rights reserved.</div>\n    <div style=\"font-size:0.82rem;color:rgba(255,255,255,0.5)\">Leading provider of zero-emission energy solutions.</div>\n  </div>\n</footer>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

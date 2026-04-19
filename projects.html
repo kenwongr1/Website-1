@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Projects – Amerigroup International</title>
+<link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+<div id="progress-bar"></div>
+
+<nav id="navbar">
+  <a href="index.html" class="nav-logo">
+    <svg viewBox="0 0 36 36" fill="none"><circle cx="18" cy="18" r="17" stroke="#0ccfb0" stroke-width="2"/><path d="M9 22 L18 10 L27 22" stroke="#0ccfb0" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M13 22 L18 15 L23 22" fill="#0ccfb0" opacity="0.4"/><line x1="9" y1="27" x2="27" y2="27" stroke="#0ccfb0" stroke-width="2" stroke-linecap="round"/></svg>
+    <div><span>Amerigroup<b style="color:var(--teal)"> Int'l</b></span><small>Clean Energy Solutions</small></div>
+  </a>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About Us</a></li>
+    <li><a href="technology.html">Technology</a></li>
+    <li><a href="projects.html" class="active">Projects</a></li>
+    <li><a href="team.html">Our Team</a></li>
+    <li><a href="partners.html">Partners</a></li>
+    <li><a href="index.html#contact" class="nav-cta">Contact</a></li>
+  </ul>
+  <div class="hamburger" onclick="toggleMenu()"><span></span><span></span><span></span></div>
+</nav>
+
+<header class="page-hero">
+  <div class="breadcrumb">Home → Projects</div>
+  <h1>Sustainability Projects <span class="accent">Delivered Worldwide</span></h1>
+  <p class="lead">Innovative solutions for zero-emission energy, efficient infrastructure, advanced water treatment, hydrogen and ammonia production, and power grid enhancements for environmental protection.</p>
+</header>
+
+<section>
+  <div class="centered reveal" style="margin-bottom:40px">
+    <span class="section-label">Portfolio</span>
+    <h2 class="section-title">Featured Projects</h2>
+    <p class="section-sub">A selection of Amerigroup's flagship initiatives across renewable generation, hydrogen infrastructure, e-mobility, and LNG logistics.</p>
+  </div>
+
+  <div class="project-filter reveal">
+    <button class="active" data-filter="all">All</button>
+    <button data-filter="solar">Solar &amp; Wind</button>
+    <button data-filter="hydrogen">Hydrogen</button>
+    <button data-filter="grid">Grid</button>
+    <button data-filter="ev">EV Conversion</button>
+    <button data-filter="lng">LNG</button>
+  </div>
+
+  <div class="proj-grid">
+
+    <article class="proj-card reveal" data-cat="solar">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1509391366360-2e959784a276?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">Solar</div></div>
+      <div class="proj-body">
+        <div class="proj-location">Sonora, Mexico</div>
+        <div class="proj-title">Utility-Scale Solar Power Plant</div>
+        <div class="proj-desc">Developing and managing large-scale solar facilities that convert sunlight into electricity, delivering clean power to Mexico's national grid.</div>
+        <div class="proj-meta"><span><b>Capacity</b><br>250 MW</span><span><b>Status</b><br>Operational</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="solar">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">Wind</div></div>
+      <div class="proj-body">
+        <div class="proj-location">Oaxaca, Mexico</div>
+        <div class="proj-title">Onshore Wind Farm Development</div>
+        <div class="proj-desc">Establishing and operating wind farms that capture wind energy and convert it into electrical power for regional industrial users.</div>
+        <div class="proj-meta"><span><b>Capacity</b><br>180 MW</span><span><b>Status</b><br>Commissioning</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="hydrogen">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1581092918484-8313ec0d4d0f?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">Hydrogen</div></div>
+      <div class="proj-body">
+        <div class="proj-location">Daxing, Beijing</div>
+        <div class="proj-title">Hydrogen Electrolysis &amp; Production Hub</div>
+        <div class="proj-desc">Leading in zero-emission hydrogen generation using renewable electricity to split water into hydrogen and oxygen — a sustainable source for industry and mobility.</div>
+        <div class="proj-meta"><span><b>Output</b><br>10,000 kg/day</span><span><b>Status</b><br>Operational</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="hydrogen">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">Ammonia</div></div>
+      <div class="proj-body">
+        <div class="proj-location">Vancouver, Canada</div>
+        <div class="proj-title">Green Ammonia Production Facility</div>
+        <div class="proj-desc">Utilizing hydrogen produced from renewable sources to create ammonia — a key component for energy storage and agricultural applications.</div>
+        <div class="proj-meta"><span><b>Output</b><br>50,000 tpa</span><span><b>Status</b><br>In Development</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="grid">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">Grid</div></div>
+      <div class="proj-body">
+        <div class="proj-location">Nationwide, Mexico</div>
+        <div class="proj-title">CFE Power Grid Modernization</div>
+        <div class="proj-desc">Enhancing Mexico's national power grid with innovative engineering — integrating fuel cells, renewables, and energy storage into existing plants.</div>
+        <div class="proj-meta"><span><b>Client</b><br>CFE</span><span><b>Status</b><br>Multi-Phase</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="ev">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">EV</div></div>
+      <div class="proj-body">
+        <div class="proj-location">North America</div>
+        <div class="proj-title">Class 5 &amp; 8 Diesel-to-Electric Truck Conversion</div>
+        <div class="proj-desc">Converting commercial diesel trucks to fully electric with travel range up to 1,300 miles. Serving premier logistics and retail fleets.</div>
+        <div class="proj-meta"><span><b>Clients</b><br>Staples, UPS, FedEx, Kenworth</span><span><b>Range</b><br>Up to 1,300 mi</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="lng">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1605281317010-fe5ffe798166?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">LNG Export</div></div>
+      <div class="proj-body">
+        <div class="proj-location">United States</div>
+        <div class="proj-title">AmerigroupLNG — US Export Authorization</div>
+        <div class="proj-desc">DOE-approved license for AmerigroupLNG to export approximately 4.6 billion cubic feet (Bcf) of liquefied natural gas (LNG) from the United States.</div>
+        <div class="proj-meta"><span><b>Volume</b><br>4.6 Bcf</span><span><b>Authority</b><br>US DOE</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="lng">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1542331608-b7ff9666c40f?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">FSRU</div></div>
+      <div class="proj-body">
+        <div class="proj-location">Pacific Coast, Mexico</div>
+        <div class="proj-title">Offshore FSRU Deployment</div>
+        <div class="proj-desc">Offshore Floating Storage and Regasification Unit providing rapid LNG import capacity with minimal environmental footprint.</div>
+        <div class="proj-meta"><span><b>Capacity</b><br>170,000 m³</span><span><b>Status</b><br>Operational</span></div>
+      </div>
+    </article>
+
+    <article class="proj-card reveal" data-cat="lng">
+      <div class="proj-image"><img src="https://images.unsplash.com/photo-1494412651409-8963ce7935a7?w=900&auto=format&fit=crop&q=80" alt=""/><div class="proj-tag">Logistics</div></div>
+      <div class="proj-body">
+        <div class="proj-location">Trans-Pacific</div>
+        <div class="proj-title">Overseas LNG Supply Chain &amp; Bunkering</div>
+        <div class="proj-desc">End-to-end LNG sourcing and logistics — including transportation, onshore regasification, FSRU operations, marine bunkering, and small-scale distribution.</div>
+        <div class="proj-meta"><span><b>Scope</b><br>Global</span><span><b>Status</b><br>Ongoing</span></div>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<div class="climate-band">
+  <div class="climate-inner reveal">
+    <div class="climate-stat-big">4.6 Bcf</div>
+    <p class="climate-tagline">of LNG approved for export from the United States</p>
+    <p class="climate-sub">AmerigroupLNG's DOE authorization enables secure, flexible natural gas supply to international markets.</p>
+  </div>
+</div>
+
+<section class="contact-section">
+  <div class="contact-inner reveal">
+    <span class="section-label" style="color:var(--teal)">Partner With Us</span>
+    <h2 class="section-title">Have a Project in Mind?</h2>
+    <p class="section-sub">Whether it's grid modernization, hydrogen infrastructure, or LNG logistics — our team is ready to engage.</p>
+    <a href="index.html#contact" class="btn-primary" style="margin-top:32px">Start a Conversation</a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-top">
+    <div class="footer-col"><h5>Amerigroup International</h5><p style="max-width:320px">Leading provider of zero-emission energy solutions — pioneering the transition to sustainable energy integration and advanced clean technology worldwide.</p></div>
+    <div class="footer-col"><h5>Company</h5><a href="about.html">About Us</a><a href="team.html">Our Team</a><a href="partners.html">Partners</a><a href="index.html#contact">Contact</a></div>
+    <div class="footer-col"><h5>Solutions</h5><a href="technology.html">Technology</a><a href="projects.html">Projects</a></div>
+    <div class="footer-col"><h5>Offices</h5><a>Hong Kong (SAR)</a><a>Beijing, China</a><a>Vancouver, Canada</a></div>
+  </div>
+  <div class="footer-bottom"><div class="foot-copy">© 2024 Amerigroup International. All rights reserved.</div><div class="foot-tag">Leading provider of zero-emission energy solutions.</div></div>
+</footer>
+
+<script src="shared.js"></script>
+</body>
+</html>

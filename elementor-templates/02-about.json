@@ -1,0 +1,406 @@
+{
+  "version": "0.4",
+  "title": "About Us — Amerigroup International",
+  "type": "page",
+  "content": [
+    {
+      "id": "948bbd0",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "0b5e6b1",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "cd2e2f9",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<nav style=\"position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;justify-content:space-between;padding:0 5%;height:70px;background:rgba(10,22,40,0.95);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,0.07)\">\n  <a href=\"/\" style=\"display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff\">\n    <svg viewBox=\"0 0 36 36\" width=\"36\" height=\"36\" fill=\"none\"><circle cx=\"18\" cy=\"18\" r=\"17\" stroke=\"#0ccfb0\" stroke-width=\"2\"/><path d=\"M9 22 L18 10 L27 22\" stroke=\"#0ccfb0\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"9\" y1=\"27\" x2=\"27\" y2=\"27\" stroke=\"#0ccfb0\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    <div><span style=\"font-size:1.1rem;font-weight:700\">Amerigroup <b style=\"color:#0ccfb0\">Int'l</b></span><small style=\"display:block;font-size:0.6rem;color:#0ccfb0;letter-spacing:0.12em;text-transform:uppercase\">Clean Energy Solutions</small></div>\n  </a>\n  <ul style=\"display:flex;gap:28px;list-style:none;margin:0;padding:0\">\n    <li><a href=\"/\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Home</a></li>\n    <li><a href=\"/about\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">About Us</a></li>\n    <li><a href=\"/technology\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Technology</a></li>\n    <li><a href=\"/projects\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Projects</a></li>\n    <li><a href=\"/team\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Our Team</a></li>\n    <li><a href=\"/partners\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Partners</a></li>\n    <li><a href=\"/#contact\" style=\"background:#0ccfb0;color:#0a1628;padding:8px 20px;border-radius:6px;font-weight:700;text-decoration:none;font-size:0.875rem\">Contact</a></li>\n  </ul>\n</nav>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "166a2d9",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "0c1e255",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "6a24d06",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<header style=\"padding:160px 5% 100px;background:linear-gradient(135deg,rgba(10,22,40,0.92) 0%,rgba(15,52,96,0.85) 60%,rgba(12,207,176,0.12) 100%),url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1800&auto=format&fit=crop&q=80') center/cover no-repeat;color:#fff\">\n  <div style=\"font-size:0.8rem;color:#0ccfb0;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px\">Home → About Us</div>\n  <h1 style=\"font-size:clamp(2rem,4.5vw,3.4rem);font-weight:800;line-height:1.15;letter-spacing:-0.02em;max-width:900px;margin-bottom:20px\">Leading the Way Through <span style='color:#0ccfb0'>Innovative Policies</span><br>and Sustainable Practices</h1>\n  <p style=\"font-size:1.1rem;color:rgba(255,255,255,0.72);line-height:1.7;max-width:640px\">From a regional LNG transporter to a global clean energy leader — discover the story, vision, and values behind Amerigroup International.</p>\n</header>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "08b6793",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "80",
+          "bottom": "100",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "417939f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "c7fd26b",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "b1d52f3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "fcffdac",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Mission",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "6034abf",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Dedicated to Zero-Emission Energy Solutions",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "07ad549",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><strong>At Amerigroup, we are dedicated to leading the transition to clean energy by providing zero-emission solutions for transportation and energy production.</strong></p><p>Our organization aims to reduce greenhouse gas emissions, improve energy supply quality, and support sustainable regional development — serving governments, industries, and communities across three continents.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "1798de9",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "318f8cf",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "b4b49d9",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<section style=\"padding:100px 5%;background:#0a1628;color:#fff\">\n  <div style=\"text-align:center;margin-bottom:56px\">\n    <span style=\"color:#0ccfb0;font-size:0.78rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase\">By the Numbers</span>\n    <h2 style=\"font-size:clamp(1.7rem,3vw,2.6rem);font-weight:800;margin:14px 0 20px\">A Legacy of Impact</h2>\n  </div>\n  <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px;text-align:center\">\n    <div><div style=\"font-size:3.5rem;font-weight:800;color:#0ccfb0\">100+</div><div style=\"color:rgba(255,255,255,0.55);font-size:0.9rem\">Years Combined Experience</div></div>\n    <div><div style=\"font-size:3.5rem;font-weight:800;color:#0ccfb0\">30+</div><div style=\"color:rgba(255,255,255,0.55);font-size:0.9rem\">Global Clients</div></div>\n    <div><div style=\"font-size:3.5rem;font-weight:800;color:#0ccfb0\">3</div><div style=\"color:rgba(255,255,255,0.55);font-size:0.9rem\">Continents</div></div>\n    <div><div style=\"font-size:3.5rem;font-weight:800;color:#0ccfb0\">8</div><div style=\"color:rgba(255,255,255,0.55);font-size:0.9rem\">Technology Domains</div></div>\n  </div>\n</section>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "97b6172",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "80",
+          "bottom": "100",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "86524e3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e4f57ed",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our History",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "059c541",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "From LNG Transport to Global Clean Energy",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "69b04ac",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Amerigroup evolved from a regional LNG transporter into a global clean energy leader. Over decades, the company expanded its expertise across hydrogen production, power grid modernization, and advanced clean energy infrastructure.</p><p>Today, we operate integrated teams across Hong Kong, Beijing, and Vancouver — connecting North American innovation with Asian manufacturing capacity and Latin American energy markets.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "a91fd18",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "fe852bb",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "352ba55",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "83873d2",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "8f553d4",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<section style=\"padding:100px 5%;background:#f0f4f8\">\n  <div style=\"text-align:center;margin-bottom:56px\">\n    <span style=\"color:#09a38c;font-size:0.78rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase\">Core Values</span>\n    <h2 style=\"font-size:clamp(1.7rem,3vw,2.6rem);font-weight:800;color:#0a1628;margin:14px 0 20px\">What Drives Us Forward</h2>\n    <p style=\"color:#64748b;max-width:640px;margin:0 auto;font-size:1.05rem\">Four guiding principles define how we build, partner, and deliver.</p>\n  </div>\n  <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px\">\n<div style=\"background:#fff;border:1px solid #dce4ef;border-radius:16px;padding:32px\"><div style=\"font-size:2rem;margin-bottom:16px\">💡</div><h3 style=\"font-size:1rem;font-weight:700;color:#0a1628;margin-bottom:10px\">Innovation</h3><p style=\"font-size:0.86rem;color:#64748b;line-height:1.65\">Continuously pursuing new technologies and solutions to stay ahead of the energy transition curve.</p></div><div style=\"background:#fff;border:1px solid #dce4ef;border-radius:16px;padding:32px\"><div style=\"font-size:2rem;margin-bottom:16px\">🌱</div><h3 style=\"font-size:1rem;font-weight:700;color:#0a1628;margin-bottom:10px\">Sustainability</h3><p style=\"font-size:0.86rem;color:#64748b;line-height:1.65\">Committed to reducing environmental impact and promoting clean energy across every project we undertake.</p></div><div style=\"background:#fff;border:1px solid #dce4ef;border-radius:16px;padding:32px\"><div style=\"font-size:2rem;margin-bottom:16px\">🌍</div><h3 style=\"font-size:1rem;font-weight:700;color:#0a1628;margin-bottom:10px\">Regional Development</h3><p style=\"font-size:0.86rem;color:#64748b;line-height:1.65\">Enhancing local economies through sustainable energy projects and resilient infrastructure.</p></div><div style=\"background:#fff;border:1px solid #dce4ef;border-radius:16px;padding:32px\"><div style=\"font-size:2rem;margin-bottom:16px\">⭐</div><h3 style=\"font-size:1rem;font-weight:700;color:#0a1628;margin-bottom:10px\">Excellence</h3><p style=\"font-size:0.86rem;color:#64748b;line-height:1.65\">Striving for the highest standards in every operation, from engineering to partnerships.</p></div></div></section>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "032773a",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "c33315c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "3108f55",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<section style=\"padding:100px 5%;background:#0a1628;color:#fff\">\n  <div style=\"text-align:center;margin-bottom:56px\">\n    <span style=\"color:#0ccfb0;font-size:0.78rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase\">Our Offices</span>\n    <h2 style=\"font-size:clamp(1.7rem,3vw,2.6rem);font-weight:800;margin:14px 0 20px\">Global Presence, Local Expertise</h2>\n  </div>\n  <div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px\">\n    <div style=\"background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:14px;padding:32px\"><div style=\"font-size:2rem;margin-bottom:12px\">🇭🇰</div><h4 style=\"color:#fff;font-size:1rem;font-weight:700;margin-bottom:8px\">Hong Kong (SAR)</h4><p style=\"color:rgba(255,255,255,0.6);font-size:0.88rem;line-height:1.7\">Unit 1201, Beverley Commercial Centre<br>87–105 Chatham Rd. S.<br>Tsim Sha Tsui, Kowloon</p></div>\n    <div style=\"background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:14px;padding:32px\"><div style=\"font-size:2rem;margin-bottom:12px\">🇨🇳</div><h4 style=\"color:#fff;font-size:1rem;font-weight:700;margin-bottom:8px\">Beijing, China</h4><p style=\"color:rgba(255,255,255,0.6);font-size:0.88rem;line-height:1.7\">Building A1, Zone B<br>Daxing International Hydrogen Energy Demonstration Zone<br>Daxing District</p></div>\n    <div style=\"background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);border-radius:14px;padding:32px\"><div style=\"font-size:2rem;margin-bottom:12px\">🇨🇦</div><h4 style=\"color:#fff;font-size:1rem;font-weight:700;margin-bottom:8px\">Vancouver, Canada</h4><p style=\"color:rgba(255,255,255,0.6);font-size:0.88rem;line-height:1.7\">170 – 422 Richard St<br>Vancouver, BC V6B 2Z4</p></div>\n  </div>\n</section>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "2f6d052",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "bd14fb5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "afc59a1",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<footer style=\"background:#0a1628;border-top:1px solid rgba(255,255,255,0.07);padding:60px 5% 30px;color:rgba(255,255,255,0.5)\">\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:48px;margin-bottom:40px\">\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Amerigroup International</h5><p style=\"font-size:0.85rem;line-height:1.7;max-width:320px\">Leading provider of zero-emission energy solutions — pioneering the transition to sustainable energy integration and advanced clean technology worldwide.</p></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Company</h5><a href=\"/about\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">About Us</a><a href=\"/team\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Our Team</a><a href=\"/partners\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Partners</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Solutions</h5><a href=\"/technology\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Technology</a><a href=\"/projects\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Projects</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Offices</h5><p style=\"font-size:0.85rem;line-height:1.7\">Hong Kong (SAR)<br>Beijing, China<br>Vancouver, Canada</p></div>\n  </div>\n  <div style=\"display:flex;justify-content:space-between;padding-top:30px;border-top:1px solid rgba(255,255,255,0.07);flex-wrap:wrap;gap:16px\">\n    <div style=\"font-size:0.8rem;color:rgba(255,255,255,0.35)\">© 2024 Amerigroup International. All rights reserved.</div>\n    <div style=\"font-size:0.82rem;color:rgba(255,255,255,0.5)\">Leading provider of zero-emission energy solutions.</div>\n  </div>\n</footer>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

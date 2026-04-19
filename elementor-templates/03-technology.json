@@ -1,0 +1,1019 @@
+{
+  "version": "0.4",
+  "title": "Technology — Amerigroup International",
+  "type": "page",
+  "content": [
+    {
+      "id": "84392b9",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "3f3111c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "9978b58",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<nav style=\"position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;justify-content:space-between;padding:0 5%;height:70px;background:rgba(10,22,40,0.95);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,0.07)\">\n  <a href=\"/\" style=\"display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff\">\n    <svg viewBox=\"0 0 36 36\" width=\"36\" height=\"36\" fill=\"none\"><circle cx=\"18\" cy=\"18\" r=\"17\" stroke=\"#0ccfb0\" stroke-width=\"2\"/><path d=\"M9 22 L18 10 L27 22\" stroke=\"#0ccfb0\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"9\" y1=\"27\" x2=\"27\" y2=\"27\" stroke=\"#0ccfb0\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    <div><span style=\"font-size:1.1rem;font-weight:700\">Amerigroup <b style=\"color:#0ccfb0\">Int'l</b></span><small style=\"display:block;font-size:0.6rem;color:#0ccfb0;letter-spacing:0.12em;text-transform:uppercase\">Clean Energy Solutions</small></div>\n  </a>\n  <ul style=\"display:flex;gap:28px;list-style:none;margin:0;padding:0\">\n    <li><a href=\"/\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Home</a></li>\n    <li><a href=\"/about\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">About Us</a></li>\n    <li><a href=\"/technology\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Technology</a></li>\n    <li><a href=\"/projects\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Projects</a></li>\n    <li><a href=\"/team\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Our Team</a></li>\n    <li><a href=\"/partners\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Partners</a></li>\n    <li><a href=\"/#contact\" style=\"background:#0ccfb0;color:#0a1628;padding:8px 20px;border-radius:6px;font-weight:700;text-decoration:none;font-size:0.875rem\">Contact</a></li>\n  </ul>\n</nav>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "e45ff0b",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "e781b33",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "bfe6bac",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<header style=\"padding:160px 5% 100px;background:linear-gradient(135deg,rgba(10,22,40,0.92) 0%,rgba(15,52,96,0.85) 60%,rgba(12,207,176,0.12) 100%),url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1800&auto=format&fit=crop&q=80') center/cover no-repeat;color:#fff\">\n  <div style=\"font-size:0.8rem;color:#0ccfb0;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px\">Home → Technology</div>\n  <h1 style=\"font-size:clamp(2rem,4.5vw,3.4rem);font-weight:800;line-height:1.15;letter-spacing:-0.02em;max-width:900px;margin-bottom:20px\">Advanced <span style='color:#0ccfb0'>Clean Technology</span> Solutions</h1>\n  <p style=\"font-size:1.1rem;color:rgba(255,255,255,0.72);line-height:1.7;max-width:640px\">Enhancing fuel efficiency, reducing emissions, and pioneering sustainable energy generation across ten integrated technology domains.</p>\n</header>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "29cdd62",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b165c59",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "abc0835",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Renewables",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "dc64d6d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Solar, Wind Turbines &amp; Water Solar Solutions",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "c85fb05",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Amerigroup integrates cutting-edge solar photovoltaic systems, utility-scale wind turbines, and innovative water solar solutions such as floating solar arrays to maximize clean energy production.</p><p>These renewables are designed to complement our portfolio — providing scalable, flexible power generation that supports grid stability and complements hydrogen and methanol fuel cell systems for a balanced, sustainable energy mix.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "465ba4a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "bb5f204",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "9de2b37",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f0f4f8",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "8fddb52",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "023ecc2",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1581092918484-8313ec0d4d0f?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "300abf3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "7b88a1e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Hydrogen",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "516b494",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Hydrogen Production &amp; Dispensing Systems",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "6dcb786",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Harnessing cutting-edge electrolysis and blue hydrogen technologies with carbon capture, Amerigroup designs and deploys modular, scalable hydrogen production facilities.</p><p>Our hydrogen refueling stations are engineered for industrial, transportation, and power generation applications — empowering the shift toward a zero-carbon hydrogen economy.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "6281625",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "65f689a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "0e4e951",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Fuel Cells",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "3677323",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Methanol Fuel Cell Power &amp; Range Extenders",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "c7f29d1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>We deliver industry-leading methanol fuel cell generators and range extender systems, providing clean, reliable power for off-grid locations, emergency backup, and electric mobility.</p><p>Our innovative methanol solutions combine efficiency, portability, and environmental performance.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "4bd923f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "915c634",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "03df79f",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f0f4f8",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "03bd5ca",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "3892859",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "bb7eeaa",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e659e08",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Grid Modernization",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "d58cf30",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Power Grid Modernization &amp; Power Plant Integration in Mexico",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "f332ef6",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>With extensive experience in Mexico's energy sector, Amerigroup spearheads power grid modernization projects that incorporate advanced clean energy technologies.</p><p>Our services include integration of hydrogen and methanol fuel cells, renewables, and energy storage solutions into existing and new power plants.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "292e533",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "19bdc19",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "7cc86d7",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "E-Mobility",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "133162c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "E-Mobility Integration &amp; Commercial Electric Vehicles",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "d0cd28d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Amerigroup champions the electrification of transport through comprehensive e-mobility solutions — advanced EV fleets, commercial electric trucks, and hydrogen fuel cell vehicles.</p><p>Class 5 and 8 diesel-to-electric truck conversions with travel range up to 1,300 miles. Notable clients: Staples, UPS, FedEx, Kenworth.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "598b921",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e350835",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1593941707882-a5bac6861d75?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "e4e1d60",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f0f4f8",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "99052f8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e96cd84",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "51792dc",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "84001c5",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Innovation",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "750c5f1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Advanced Linear Generator Technology",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "9eb7fae",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Converts mechanical energy directly into electrical power with minimal moving parts. By employing a linear motion mechanism rather than traditional rotating components, this generator offers enhanced efficiency, longer operational lifespans, and greater reliability.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "b3607be",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "dfe9a25",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "33c2027",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Innovation",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "20efbc9",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Hydrogen Injection Reactor",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "fda8f19",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>A cutting-edge system designed to enhance fuel efficiency and reduce emissions in transport units by using only water as the source for hydrogen production. The reactor utilizes electrolysis to generate hydrogen on-demand, which is directly injected into the engine's combustion chamber.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "2d7a9e0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e5b4b21",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1507668077129-56e32842fceb?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "77f65e9",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f0f4f8",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "6f5e607",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "50db91f",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1542331608-b7ff9666c40f?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "86277f9",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e8bd5a1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "LNG Onshore",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "6b60e90",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "LNG Onshore Regasification &amp; Infrastructure",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "4a78faf",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Amerigroup operates state-of-the-art onshore LNG regasification terminals designed for optimal throughput, safety, and integration with downstream gas networks.</p><p>DOE approval: AmerigroupLNG authorized to export approximately 4.6 billion cubic feet (Bcf) of LNG from the United States.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "15b92a7",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "64cc51a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "ef584a5",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "LNG Offshore",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "8a7b37d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Offshore Floating Storage &amp; Regasification Units (FSRU)",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "a24d40a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Our advanced offshore FSRU solutions offer agile, cost-effective alternatives to traditional land-based terminals. Strategically deployed in ports and coastal hubs worldwide with minimal environmental footprint and rapid commissioning timelines.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "8e5cf7a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "9cc6ea4",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "117af63",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f0f4f8",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "80",
+          "bottom": "80",
+          "left": "80",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "673a55b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "0276618",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": {
+                  "url": "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?w=900&auto=format&fit=crop&q=80",
+                  "id": ""
+                },
+                "image_size": "full",
+                "align": "center",
+                "caption_source": "none"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "0f589f5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "86dbfdf",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "LNG Supply Chain",
+                "size": "small",
+                "align": "left",
+                "header_size": "h2",
+                "title_color": "#09a38c"
+              },
+              "elements": []
+            },
+            {
+              "id": "18279f0",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Overseas LNG Supply Chain Management",
+                "size": "xl",
+                "align": "left",
+                "header_size": "h2"
+              },
+              "elements": []
+            },
+            {
+              "id": "93ea963",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Amerigroup ensures end-to-end LNG supply chain excellence — from international procurement, marine transportation, and cargo handling to distribution and delivery. Global reach and strategic partnerships guarantee dependable LNG sourcing tailored to market needs.</p>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "1ed1df5",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "8f91288",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "3c786ef",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<footer style=\"background:#0a1628;border-top:1px solid rgba(255,255,255,0.07);padding:60px 5% 30px;color:rgba(255,255,255,0.5)\">\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:48px;margin-bottom:40px\">\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Amerigroup International</h5><p style=\"font-size:0.85rem;line-height:1.7;max-width:320px\">Leading provider of zero-emission energy solutions — pioneering the transition to sustainable energy integration and advanced clean technology worldwide.</p></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Company</h5><a href=\"/about\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">About Us</a><a href=\"/team\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Our Team</a><a href=\"/partners\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Partners</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Solutions</h5><a href=\"/technology\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Technology</a><a href=\"/projects\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Projects</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Offices</h5><p style=\"font-size:0.85rem;line-height:1.7\">Hong Kong (SAR)<br>Beijing, China<br>Vancouver, Canada</p></div>\n  </div>\n  <div style=\"display:flex;justify-content:space-between;padding-top:30px;border-top:1px solid rgba(255,255,255,0.07);flex-wrap:wrap;gap:16px\">\n    <div style=\"font-size:0.8rem;color:rgba(255,255,255,0.35)\">© 2024 Amerigroup International. All rights reserved.</div>\n    <div style=\"font-size:0.82rem;color:rgba(255,255,255,0.5)\">Leading provider of zero-emission energy solutions.</div>\n  </div>\n</footer>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}

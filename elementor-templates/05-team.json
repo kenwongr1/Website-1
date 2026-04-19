@@ -1,0 +1,156 @@
+{
+  "version": "0.4",
+  "title": "Our Team — Amerigroup International",
+  "type": "page",
+  "content": [
+    {
+      "id": "d25d673",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "3dbaa81",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "06cf9f8",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<nav style=\"position:fixed;top:0;left:0;right:0;z-index:1000;display:flex;align-items:center;justify-content:space-between;padding:0 5%;height:70px;background:rgba(10,22,40,0.95);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,0.07)\">\n  <a href=\"/\" style=\"display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff\">\n    <svg viewBox=\"0 0 36 36\" width=\"36\" height=\"36\" fill=\"none\"><circle cx=\"18\" cy=\"18\" r=\"17\" stroke=\"#0ccfb0\" stroke-width=\"2\"/><path d=\"M9 22 L18 10 L27 22\" stroke=\"#0ccfb0\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"9\" y1=\"27\" x2=\"27\" y2=\"27\" stroke=\"#0ccfb0\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>\n    <div><span style=\"font-size:1.1rem;font-weight:700\">Amerigroup <b style=\"color:#0ccfb0\">Int'l</b></span><small style=\"display:block;font-size:0.6rem;color:#0ccfb0;letter-spacing:0.12em;text-transform:uppercase\">Clean Energy Solutions</small></div>\n  </a>\n  <ul style=\"display:flex;gap:28px;list-style:none;margin:0;padding:0\">\n    <li><a href=\"/\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Home</a></li>\n    <li><a href=\"/about\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">About Us</a></li>\n    <li><a href=\"/technology\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Technology</a></li>\n    <li><a href=\"/projects\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Projects</a></li>\n    <li><a href=\"/team\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Our Team</a></li>\n    <li><a href=\"/partners\" style=\"color:rgba(255,255,255,0.8);text-decoration:none;font-size:0.875rem;font-weight:500\">Partners</a></li>\n    <li><a href=\"/#contact\" style=\"background:#0ccfb0;color:#0a1628;padding:8px 20px;border-radius:6px;font-weight:700;text-decoration:none;font-size:0.875rem\">Contact</a></li>\n  </ul>\n</nav>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "670dc62",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "5181230",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "be9a1a4",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<header style=\"padding:160px 5% 100px;background:linear-gradient(135deg,rgba(10,22,40,0.92) 0%,rgba(15,52,96,0.85) 60%,rgba(12,207,176,0.12) 100%),url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=1800&auto=format&fit=crop&q=80') center/cover no-repeat;color:#fff\">\n  <div style=\"font-size:0.8rem;color:#0ccfb0;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:16px\">Home → Our Team</div>\n  <h1 style=\"font-size:clamp(2rem,4.5vw,3.4rem);font-weight:800;line-height:1.15;letter-spacing:-0.02em;max-width:900px;margin-bottom:20px\">Our Team Thrives on <span style='color:#0ccfb0'>Individuality &amp; Innovation</span></h1>\n  <p style=\"font-size:1.1rem;color:rgba(255,255,255,0.72);line-height:1.7;max-width:640px\">Firsthand experience from collaborations with industry-leading clients and premier business partners.</p>\n</header>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "ab8174d",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "b3d3cd7",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "1d7748a",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "<section style=\"padding:100px 5%;background:#fff\"><div style=\"text-align:center;margin-bottom:56px\"><span style=\"color:#09a38c;font-size:0.78rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase\">Leadership</span><h2 style=\"font-size:clamp(1.7rem,3vw,2.6rem);font-weight:800;color:#0a1628;margin:14px 0\">Executives &amp; Directors</h2></div><div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px\"><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1560250097-0b93528c311a?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Mr. Gerardo Payán Ramos</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">President, Amerigroup International · Founder, AmerigroupLNG &amp; AmeriGas Propane S.A. de C.V.</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Over 15 years in the energy industry. Former consultant for Coca-Cola bottling companies across Latin America, specializing in electromechanical systems and quality control. Expert in government relations and strategic partnerships between Mexico and the USA. Authority in LNG, hydrogen, solar, wind, and EV conversion. Holds patents for an emergency alert system and a 911 location-sharing app.</p></div></div><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Mr. Ken Wong</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">Corporate Vice President &amp; Co-Founder, Amerigroup International</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Canadian-Chinese entrepreneur directing global strategy and operations. Background in commodity trading and mining across Canada, USA, and Mexico. First Canadian-Chinese exporter of iron ore from Mexico to China (2012). Active in mergers, capital investment, new energy, real estate, agriculture, supply chain, and industrial park development. Belt and Road projects since 2016. Educated in Computer Engineering and International Trade Business.</p></div></div><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Mr. James Wang</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">CEO (China), Amerigroup International</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Over 15 years at Fortune 500 companies and leading Chinese corporations. Expertise in government relations and state-owned enterprise partnerships. Oversaw transactions exceeding $10 billion. Key role in Belt and Road projects across African countries. Graduate in economics and management from Moscow State University.</p></div></div><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Mr. Roberto Compeán Woodworth</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">CFO (Mexico), Amerigroup International · CFO &amp; Co-founder, AmerigroupLNG</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Strong background in private and public sectors. Former Chief Sales Officer at Mexico's National Lottery. Previous CFO for Bestel and Cablevision Monterrey (Televisa subsidiaries). BBVA Bank experience with advanced training in Madrid. Bachelor's Degree in Business Administration from ITAM University, Mexico.</p></div></div><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Mr. Peter Pang</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">CFO (CGA/CFA) Global, Amerigroup International</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Over 30 years of industry experience. Former partner at KPMG Vancouver. Chartered Professional Accountant in Canada. Expertise in auditing, financial management, and mergers &amp; acquisitions. Instrumental in major corporate mergers and complex financial restructuring.</p></div></div><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Mr. Victor Manuel Villanueva Rivera</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">Managing Director, Amerigroup International</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Over 40 years in the automotive industry. Former Managing Director at Jetour Motors and FIAT Mexico. Previous Sales Director at Hertz-AVASA. Former CEO &amp; Managing Director of Mitsubishi Motors Mexico. Master's in Quality Engineering; Bachelor's in Industrial Engineering.</p></div></div><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1580489944761-15a19d654956?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Ms. Vanessa Muñoz</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">Business Development Director</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Successfully owned and operated businesses in Mexico and the USA with top client satisfaction and awards. Former Real Estate Commercial and Leasing Manager for Liverpool. Previously at Alsea facilitating new business development. Bachelor's Degree in International Relations from Tecnológico de Monterrey, Mexico.</p></div></div><div style=\"background:#fff;border-radius:20px;overflow:hidden;border:1px solid #dce4ef\">\n<div style=\"aspect-ratio:1/1.1;overflow:hidden;background:#f0f4f8\"><img src=\"https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=700&auto=format&fit=crop&q=80\" style=\"width:100%;height:100%;object-fit:cover\"/></div>\n<div style=\"padding:24px 28px 28px\"><div style=\"font-size:1.15rem;font-weight:800;color:#0a1628;margin-bottom:4px\">Ms. Liviere Galván</div><div style=\"font-size:0.8rem;font-weight:600;color:#09a38c;letter-spacing:0.04em;margin-bottom:14px;line-height:1.4\">Commercial Director</div><p style=\"font-size:0.82rem;color:#64748b;line-height:1.65\">Transitioned from Sales Manager to Commercial Director at Amerigroup. Drives sales strategy, spearheads new business development, and expands the international client base. Former Director of Sales and Marketing at Dronamex (5+ years). Master of Science and Bachelor's degree in Marketing.</p></div></div></div></section>"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "d3e6d53",
+      "elType": "section",
+      "settings": {
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "cd2f06f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "e8f5f8b",
+              "elType": "widget",
+              "widgetType": "html",
+              "settings": {
+                "html": "\n<footer style=\"background:#0a1628;border-top:1px solid rgba(255,255,255,0.07);padding:60px 5% 30px;color:rgba(255,255,255,0.5)\">\n  <div style=\"display:grid;grid-template-columns:2fr 1fr 1fr 1fr;gap:48px;margin-bottom:40px\">\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Amerigroup International</h5><p style=\"font-size:0.85rem;line-height:1.7;max-width:320px\">Leading provider of zero-emission energy solutions — pioneering the transition to sustainable energy integration and advanced clean technology worldwide.</p></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Company</h5><a href=\"/about\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">About Us</a><a href=\"/team\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Our Team</a><a href=\"/partners\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Partners</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Solutions</h5><a href=\"/technology\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Technology</a><a href=\"/projects\" style=\"color:rgba(255,255,255,0.5);font-size:0.85rem;display:block;margin-bottom:8px;text-decoration:none\">Projects</a></div>\n    <div><h5 style=\"color:#fff;font-size:0.9rem;font-weight:700;margin-bottom:18px\">Offices</h5><p style=\"font-size:0.85rem;line-height:1.7\">Hong Kong (SAR)<br>Beijing, China<br>Vancouver, Canada</p></div>\n  </div>\n  <div style=\"display:flex;justify-content:space-between;padding-top:30px;border-top:1px solid rgba(255,255,255,0.07);flex-wrap:wrap;gap:16px\">\n    <div style=\"font-size:0.8rem;color:rgba(255,255,255,0.35)\">© 2024 Amerigroup International. All rights reserved.</div>\n    <div style=\"font-size:0.82rem;color:rgba(255,255,255,0.5)\">Leading provider of zero-emission energy solutions.</div>\n  </div>\n</footer>\n"
+              },
+              "elements": []
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": []
+}
